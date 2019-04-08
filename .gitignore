@@ -8,7 +8,6 @@ venv/
 ENV/
 .mypy_cache/
 */migrations/
-static/
 db.sqlite3
 xcg_is/local_settings.py
 */local_settings.py
